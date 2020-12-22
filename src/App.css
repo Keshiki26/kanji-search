@@ -1,0 +1,157 @@
+@font-face {
+	font-family: 'Futura';
+	src: local('Futura'), url(./fonts/futuramain.ttf) format('typeface');
+}
+a {
+	text-decoration: none;
+	color: inherit;
+}
+a:hover {
+	color: inherit;
+}
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'Futura' !important;
+}
+.displayContainer {
+	background-color: rgb(0, 0, 0);
+}
+
+/* SearchBar */
+.search {
+	background-color: rgb(219, 219, 219);
+}
+.searchBar-main {
+	margin-top: 10px !important;
+}
+
+.searchBar-form {
+	width: 100%;
+}
+
+/* Kanji Display */
+
+.Kanji-heading {
+	justify-content: start;
+}
+.kunyomi0 {
+	color: #fa4659;
+}
+.kunyomi1 {
+	color: #ff8596;
+}
+.kunyomi2 {
+	color: #f67e6e;
+}
+.largeKanjiDisplay {
+	align-items: center;
+}
+.rightmeaning {
+	margin-top: 40px !important;
+}
+.largeKanjiDisplay-text {
+	background-color: rgb(218, 152, 152);
+	border-radius: 5px;
+
+	font-size: 10em !important;
+	padding: 10px;
+}
+.wordp1 {
+	align-items: center;
+}
+.meaningWord {
+	padding: 10px;
+	background-color: rgb(2, 2, 2);
+}
+.meaning {
+	transition: cubic-bezier(0.68, -0.55, 0.265, 1.55) 1s all;
+	background-color: rgb(218, 152, 152);
+	border-radius: 5px;
+	color: black;
+	padding: 10px;
+}
+.meaning:hover {
+	color: #ff8596;
+	letter-spacing: 5px !important;
+	background-color: #000f52;
+
+	filter: hue-rotate(360deg);
+}
+.wordstitle {
+	text-align: center;
+}
+.KanjiWords {
+	margin-top: 20px !important;
+}
+.resultsFor {
+	font-size: 1.2em !important;
+	display: flex;
+	justify-content: space-between !important;
+	color: rgb(173, 173, 173);
+}
+.displaycontain {
+	color: white;
+	background-color: rgb(19, 19, 19);
+	border-radius: 10px;
+	padding: 20px;
+}
+.captionWord {
+	color: rgb(173, 173, 173);
+}
+.wordEach {
+	margin-top: 40px !important;
+}
+.wordcontainer {
+	padding: 40px !important;
+	margin: 10px !important;
+	border-radius: 10px;
+	background-color: black;
+}
+.meaningEnglish {
+	letter-spacing: 2px !important;
+	font-weight: 100 !important;
+	text-transform: lowercase;
+}
+.topresultsfor {
+	background-color: rgb(42, 42, 42);
+	border-radius: 10px;
+}
+.ony {
+	font-weight: 300 !important;
+	font-size: 2em !important;
+}
+.linksOpenClose {
+	cursor: pointer;
+	color: white;
+	background-color: black;
+	border-radius: 50%;
+	padding: 5px;
+}
+.errMsg {
+	color: white;
+	background-color: rgb(230, 61, 61);
+	border-radius: 50px;
+	display: flex;
+	padding: 20px;
+	align-items: center;
+	text-align: center;
+}
+.errMsgSub2 {
+	color: #000000;
+}
+.listmeaning {
+	color: white;
+	text-align: left;
+}
+.listofkanjikanji {
+	color: white;
+}
+.logo {
+	width: 40px;
+	margin: 0;
+}
+.nopadmar {
+	margin: 0;
+	padding: 0 !important;
+}
