@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kanji-search/static/css/main.96b462b8.chunk.css",
-    "main.js": "/kanji-search/static/js/main.78f558d2.chunk.js",
-    "main.js.map": "/kanji-search/static/js/main.78f558d2.chunk.js.map",
+    "main.js": "/kanji-search/static/js/main.655a164c.chunk.js",
+    "main.js.map": "/kanji-search/static/js/main.655a164c.chunk.js.map",
     "runtime-main.js": "/kanji-search/static/js/runtime-main.eab51fcf.js",
     "runtime-main.js.map": "/kanji-search/static/js/runtime-main.eab51fcf.js.map",
     "static/js/2.eb194c80.chunk.js": "/kanji-search/static/js/2.eb194c80.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.eab51fcf.js",
     "static/js/2.eb194c80.chunk.js",
     "static/css/main.96b462b8.chunk.css",
-    "static/js/main.78f558d2.chunk.js"
+    "static/js/main.655a164c.chunk.js"
   ]
 }
