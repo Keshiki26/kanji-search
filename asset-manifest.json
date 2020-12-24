@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/kanji-search/static/css/main.74ddf4b9.chunk.css",
-    "main.js": "/kanji-search/static/js/main.7bbd59c0.chunk.js",
-    "main.js.map": "/kanji-search/static/js/main.7bbd59c0.chunk.js.map",
+    "main.css": "/kanji-search/static/css/main.800b9efb.chunk.css",
+    "main.js": "/kanji-search/static/js/main.1233ee92.chunk.js",
+    "main.js.map": "/kanji-search/static/js/main.1233ee92.chunk.js.map",
     "runtime-main.js": "/kanji-search/static/js/runtime-main.eab51fcf.js",
     "runtime-main.js.map": "/kanji-search/static/js/runtime-main.eab51fcf.js.map",
-    "static/js/2.97af58f9.chunk.js": "/kanji-search/static/js/2.97af58f9.chunk.js",
-    "static/js/2.97af58f9.chunk.js.map": "/kanji-search/static/js/2.97af58f9.chunk.js.map",
+    "static/js/2.693bd0b1.chunk.js": "/kanji-search/static/js/2.693bd0b1.chunk.js",
+    "static/js/2.693bd0b1.chunk.js.map": "/kanji-search/static/js/2.693bd0b1.chunk.js.map",
     "index.html": "/kanji-search/index.html",
-    "static/css/main.74ddf4b9.chunk.css.map": "/kanji-search/static/css/main.74ddf4b9.chunk.css.map",
-    "static/js/2.97af58f9.chunk.js.LICENSE.txt": "/kanji-search/static/js/2.97af58f9.chunk.js.LICENSE.txt",
+    "static/css/main.800b9efb.chunk.css.map": "/kanji-search/static/css/main.800b9efb.chunk.css.map",
+    "static/js/2.693bd0b1.chunk.js.LICENSE.txt": "/kanji-search/static/js/2.693bd0b1.chunk.js.LICENSE.txt",
     "static/media/App.css": "/kanji-search/static/media/futuramain.ead7282f.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.eab51fcf.js",
-    "static/js/2.97af58f9.chunk.js",
-    "static/css/main.74ddf4b9.chunk.css",
-    "static/js/main.7bbd59c0.chunk.js"
+    "static/js/2.693bd0b1.chunk.js",
+    "static/css/main.800b9efb.chunk.css",
+    "static/js/main.1233ee92.chunk.js"
   ]
 }
