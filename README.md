@@ -1,70 +1,17 @@
-# Getting Started with Create React App
+# kanji-search
+React Website to help learn Kanji
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Currently Available
+A few hundred Kanji, each with their<strong> own webpage link</strong>, <strong>word definitions</strong>, can <strong>search</strong> for Kanji using english definiton, onyomi reading and kunyomi reading, ability to hide and show definitions so as to quickly <strong>practice</strong> them, further links to other websites for more info
 
-## Available Scripts
+# Next Steps
+My current Kanji Knowledge is *Approx. 500* so I am using this app to learn more kanji as I keep adding them, once I have reached 2000, i will switch over to an API for the Kanji and their definitions.
 
-In the project directory, you can run:
-
-### `yarn start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Future Features 
+Essentially there will be 2 main features of this website, one of them is what I currently have, basically a dictionary like so many other Kanji websites.
+###
+The second feature will be your own libary and profile in which you can store new Kanji in any order and as many as you want, add notes, rate how well you think you them in terms of reading / definition. 
+###
+Then after adding a quiz feature which I imagine you will tick certain amount of kanji from your library or just click on a specific kanji and a modal will pop up and you can select to test reading/meaning or both. And it will be a quick quiz based on the kanji you select. 
+###
+I can expand a lot on these two features too but that is the general guideline for now. 
