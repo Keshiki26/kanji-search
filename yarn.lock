@@ -9234,6 +9234,11 @@ react-dom@^17.0.1:
     object-assign "^4.1.1"
     scheduler "^0.20.1"
 
+react-drag-reorder@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/react-drag-reorder/-/react-drag-reorder-1.0.0.tgz#cbcc9dbf820af58db1d79f30c6bdd361dcaf4e52"
+  integrity sha512-4qifgJn+SQLZrPBjx2dkOujQq8z4174mVP/sJEyxIh9pA3qII5iVHcVpbUhNHY0beXptrn5GJ0P0IHsaXqqglw==
+
 react-error-overlay@^6.0.8:
   version "6.0.8"
   resolved "https://registry.yarnpkg.com/react-error-overlay/-/react-error-overlay-6.0.8.tgz#474ed11d04fc6bda3af643447d85e9127ed6b5de"
@@ -11261,6 +11266,11 @@ walker@^1.0.7, walker@~1.0.5:
   integrity sha1-L3+bj9ENZ3JisYqITijRlhjgKPs=
   dependencies:
     makeerror "1.0.x"
+
+wanakana@^4.0.2:
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/wanakana/-/wanakana-4.0.2.tgz#a7d60186724a56fd50e6e9c224628c09294901d8"
+  integrity sha512-lBFtnLJhTpp5wQBdH7TrOHhLxqmUabAfL86plNN8+iffyhosjZyx+kkO8KEBGR8zWH5nxSQ67oyx3W/lcEC8sg==
 
 watchpack-chokidar2@^2.0.1:
   version "2.0.1"
