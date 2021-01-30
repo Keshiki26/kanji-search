@@ -12,6 +12,6 @@ Essentially there will be 2 main features of this website, one of them is what I
 ###
 The second feature will be your own libary and profile in which you can store new Kanji in any order and as many as you want, add notes, rate how well you think you them in terms of reading / definition. 
 ###
-Then after adding a quiz feature which I imagine you will tick certain amount of kanji from your homepage or just click on a specific kanji and a modal will pop up and you can select to test reading/meaning or all. And it will be a quick quiz based on the kanji you select. 
+Then after adding a quiz feature which I imagine you will tick certain amount of kanji from your library or just click on a specific kanji and a modal will pop up and you can select to test reading/meaning or both. And it will be a quick quiz based on the kanji you select. 
 ###
 I can expand a lot on these two features too but that is the general guideline for now. 
