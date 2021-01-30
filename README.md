@@ -2,7 +2,7 @@
 React Website to help learn Kanji
 
 # Currently Available
-A few hundred Kanji, each with their own webpage link, word definitions, ability to hide and show definitions so as to quickly practice them, further links to other websites for more info
+A few hundred Kanji, each with their own webpage link, word definitions, can search for Kanji using english definiton, onyomi reading and kunyomi reading, ability to hide and show definitions so as to quickly practice them, further links to other websites for more info
 
 # Next Steps
 My current Kanji Knowledge is *Approx. 500* so I am using this app to learn more kanji as I keep adding them, once I have reached 2000, i will switch over to an API for the Kanji and their definitions.
